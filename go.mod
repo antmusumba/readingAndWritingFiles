@@ -1,0 +1,3 @@
+module dope
+
+go 1.22.1
